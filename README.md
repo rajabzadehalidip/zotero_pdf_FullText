@@ -3,3 +3,7 @@ A small program that adds full text of PDFs to the dataframe based on their loca
 
 # How to use
 Just run the program: enrich_zotero.py [input.csv] [output.csv]
+
+
+# Use case
+## You can use LLMR package to do some text analysis on your knowledge base. 
