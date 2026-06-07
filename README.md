@@ -6,4 +6,4 @@ Just run the program: enrich_zotero.py [input.csv] [output.csv]
 
 
 # Use case
-## You can use LLMR package to do some text analysis on your knowledge base. 
+## You can use [LLMR](https://github.com/asanaei/LLMR) package to do some text analysis on your knowledge base. Export a csv from Zotero and use this to have a ready to use dataset.  
